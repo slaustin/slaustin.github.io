@@ -52,14 +52,14 @@ interests:
   - Enzymatic Catalysis
 
 education:
-  - area: PhD Molecular Biophysics
+  - area: Ph.D. Molecular Biophysics
     institution: Florida State University
     date_start: 2014-09-01
     date_end: 2020-06-30
     summary: Using the Orthogonal Space Sampling method within CHARMM, I studied how the structures and dynamics of proteins and their aqueous environment couple together to produce biologically relevant motions.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.proquest.com/docview/2456396252?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
   #- area: MEng Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  date_start: 2016-01-01
@@ -71,7 +71,7 @@ education:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BA Chemistry
+  - area: B.A. Chemistry
     institution: University of South florida
     date_start: 2007-08-01
     date_end: 2012-05-01
