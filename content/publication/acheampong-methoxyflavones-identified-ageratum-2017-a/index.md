@@ -17,7 +17,7 @@ authors:
 - Stefan Thibodeaux
 - Jill Kublbeck
 - Steven Austin
-date: \textbf2017-10-01-01
+date: 2017-10-01-01
 publishDate: '2025-01-20T20:26:02.965100Z'
 publication_types:
 - article-journal
