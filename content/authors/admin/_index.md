@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:saustin0727@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/slaustin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/steven-austin-a9062046/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=fE7Uy5IAAAAJ&gmla=AGd7smHGbbDkNPhAa2xyvSN6zLLAnHfDR1cnlY69FKepEoopH8xduPXkD02jB3Vt2mwa3BkS0ELOW9mM57Fb69Jyb5kwmRivQCQWHw
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2947-9484
 
 interests:
   - Molecular Dynamics
