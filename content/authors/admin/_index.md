@@ -56,8 +56,7 @@ education:
     institution: Florida State University
     date_start: 2014-09-01
     date_end: 2020-06-30
-    summary: |
-      Using the Orthogonal Space Sampling method within CHARMM, I studied how the structures and dynamics of proteins and their aqueous environment couple together to produce biologically relevant motions.
+    summary: Using the Orthogonal Space Sampling method within CHARMM, I studied how the structures and dynamics of proteins and their aqueous environment couple together to produce biologically relevant motions.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
