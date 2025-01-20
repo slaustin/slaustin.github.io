@@ -35,14 +35,14 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=fE7Uy5IAAAAJ&gmla=AGd7smHGbbDkNPhAa2xyvSN6zLLAnHfDR1cnlY69FKepEoopH8xduPXkD02jB3Vt2mwa3BkS0ELOW9mM57Fb69Jyb5kwmRivQCQWHw
   - icon: academicons/orcid
     url: https://orcid.org/
 
