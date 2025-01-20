@@ -7,7 +7,7 @@ authors:
 - Fiona Kearns
 - Jordan Hale
 - Kira Astronskas
-- \textbfSteven L. \textbfAustin
+- Steven L. Austin
 - Ryan Young
 - Louise Allcock
 - Sarah Dietrick
