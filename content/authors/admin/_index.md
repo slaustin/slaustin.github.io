@@ -134,10 +134,10 @@ skills:
       - name: Mountain Biking
         description: ''
         percent: ''
-        icon: bike
+        icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: ''
         icon: camera
 
 #languages:
