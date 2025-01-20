@@ -11,7 +11,7 @@ last_name: Austin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular Dynamics
+  - Enhanced Sampling
+  - Enzymatic Catalysis
 
 education:
   - area: PhD Molecular Biophysics
@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Steven L. Austin, a postdoctoral researcher in the Chemistry Department at the University of South Florida. My work is centered on molecular dynamics simulations of biological molecules, in which I employ physics-based sampling methods to study biophysical phenomena. 
