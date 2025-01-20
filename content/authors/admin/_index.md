@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Steven L. Austin, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:' '
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Steven
+last_name: Austin
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of South Florida
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,12 +52,12 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Molecular Biophysics
+    institution: Florida State University
+    date_start: 2014-09-01
+    date_end: 2020-6-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Using the Orthogonal Space Sampling method within CHARMM, I studied how the structures and dynamics of proteins and their aqueous environment couple together to produce biologically relevant motions.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
