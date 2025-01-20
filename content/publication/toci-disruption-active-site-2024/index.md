@@ -1,5 +1,5 @@
 ---
-title: Disruption of an Active Site Network Leads to Activation of C2$α$-Lactylthiamin
+title: Disruption of an Active Site Network Leads to Activation of C2α-Lactylthiamin
   Diphosphate on the Antibacterial Target 1-Deoxy- textscd -Xylulose-5-Phosphate Synthase
 authors:
 - Eucolona M. Toci
