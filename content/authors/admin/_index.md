@@ -129,24 +129,24 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: ''
         icon: person-simple-walk
-      - name: Cats
+      - name: Mountain Biking
         description: ''
-        percent: 100
-        icon: cat
+        percent: ''
+        icon: bike
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Chinese
+#    percent: 75
+#  - name: Portuguese
+#    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Hello! I'm Steven L. Austin, a postdoctoral researcher in the Chemistry Department at the University of South Florida. My work is centered on molecular dynamics simulations of biological molecules, in which I employ physics-based sampling methods to study biophysical phenomena. 
+Hello! I'm Steven L. Austin, a Postdoctoral Researcher in the Chemistry Department at the University of South Florida. My work is centered on molecular dynamics simulations of biological molecules, in which I employ physics-based enhanced sampling methods to study biophysical phenomena.
