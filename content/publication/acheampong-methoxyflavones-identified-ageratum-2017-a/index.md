@@ -22,6 +22,7 @@ publishDate: '2025-01-20T20:26:02.965100Z'
 publication_types:
 - article-journal
 publication: '*Journal of Medicinial Plants Research*'
+doi: 10.5897/JMPR2017.6457
 abstract: New therapies for leukemia are urgently needed due to adverse side effects,
   tumor resistance and lack of selectivity of many chemotherapeutic agents in clinical
   use. Ageratum conyzoides has been used in folklore medicine for managing leukemia
