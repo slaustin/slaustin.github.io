@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research Focus'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        The discovery of novel drugs and drug targets is the motivation for research spanning a diverse spectrum of scientific disciplines. My aim is at the atomic-scale, where I utilize computer simulations of drugs and their protein targets to understand the physical basis of their complex interactions. A great focus of my work is on the development of enhanced sampling methodologies that bolster our ability to observe long-timescale dynamics critical to enzymatic functionality. In an effort to convert these observations into knowledge, I also create novel GPU-accelerated algorithms to detect hidden drug binding sites and investigate how they modulate enzymatic function.
     design:
       columns: '1'
   #- block: collection
