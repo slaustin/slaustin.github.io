@@ -73,7 +73,7 @@ education:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.A. Chemistry
-    institution: University of South florida
+    institution: University of South Florida
     date_start: 2007-08-01
     date_end: 2012-05-01
     #summary: |
