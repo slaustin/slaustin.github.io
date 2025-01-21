@@ -183,6 +183,3 @@ awards:
 ## About Me
 
 Hello! I'm Steven L. Austin, a Postdoctoral Researcher in the Chemistry Department at the University of South Florida. My work is centered on molecular dynamics simulations of biological molecules, in which I employ physics-based enhanced sampling methods to study biophysical phenomena.
-color LIGHT_RED
-print "WARNING! WARNING!"
-color TEXTCOLOR 
