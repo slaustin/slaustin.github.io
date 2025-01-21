@@ -82,6 +82,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    {style="color: black"}
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,6 +182,6 @@ awards:
 ---
 
 ## About Me
-
+{style="color: black"}
 Hello! I'm Steven L. Austin, a Postdoctoral Researcher in the Chemistry Department at the University of South Florida. My work is centered on molecular dynamics simulations of biological molecules, in which I employ physics-based enhanced sampling methods to study biophysical phenomena.
-{style="color: red"}
+{style="color: black"}
