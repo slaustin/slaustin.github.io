@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: test_3.svg
+          filename: dynamic_2.svg
           filters:
             brightness: 1.0
           size: cover
