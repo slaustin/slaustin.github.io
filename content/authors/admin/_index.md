@@ -21,6 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Postdoctoral Researcher
+color: red
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
