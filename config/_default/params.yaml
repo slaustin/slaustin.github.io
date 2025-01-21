@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: zinc
-  font_size: L
+  font_size: xs
   font: classic
 
 # SEO
