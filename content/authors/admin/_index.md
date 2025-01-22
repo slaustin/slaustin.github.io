@@ -50,7 +50,7 @@ profiles:
 interests:
   - Molecular Dynamics
   - Enhanced Sampling
-  - Enzymatic Catalysis
+  - Flexible Docking
 
 education:
   - area: Ph.D. Molecular Biophysics
