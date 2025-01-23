@@ -37,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Steven L. Austin"
+      text: " "
 
 # Site footer
 footer:
