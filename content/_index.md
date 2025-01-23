@@ -35,7 +35,7 @@ sections:
       title: 'My Research Focus'
       subtitle: ''
       text: |-
-        <a>The discovery of novel drugs and drug targets is the motivation for research spanning a diverse spectrum of scientific disciplines. My aim is at the atomic-scale, where I utilize computer simulations of drugs and their protein targets to understand the physical basis of their complex interactions. A great focus of my work is on the development of enhanced sampling methodologies that bolster our ability to observe long-timescale dynamics critical to enzymatic functionality. In an effort to convert these observations into knowledge, I also create novel GPU-accelerated algorithms to detect hidden drug binding sites and investigate how they modulate enzymatic function.</a>
+        <p class="some-text">The discovery of novel drugs and drug targets is the motivation for research spanning a diverse spectrum of scientific disciplines. My aim is at the atomic-scale, where I utilize computer simulations of drugs and their protein targets to understand the physical basis of their complex interactions. A great focus of my work is on the development of enhanced sampling methodologies that bolster our ability to observe long-timescale dynamics critical to enzymatic functionality. In an effort to convert these observations into knowledge, I also create novel GPU-accelerated algorithms to detect hidden drug binding sites and investigate how they modulate enzymatic function.</p>
     design:
       columns: '1'
   #- block: collection
