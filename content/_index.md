@@ -22,17 +22,14 @@ sections:
       css_class: dark
       background:
         color: black
-        video:
-        filename: membrane_video.mov
-        flip: false
-        #image:
-        #  # Add your image background to `assets/media/`.
-        #  filename: dynamic_3.svg
-        #  filters:
-        #    brightness: 1.0
-        #  size: cover
-        #  position: center
-        #  parallax: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: dynamic_3.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: markdown
     content:
       title: 'My Research Focus'
