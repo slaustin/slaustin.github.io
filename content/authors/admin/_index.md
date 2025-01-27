@@ -51,6 +51,7 @@ interests:
   - Molecular Dynamics
   - Enhanced Sampling
   - Flexible Docking
+  - ML Force Fields
 
 education:
   - area: Ph.D. Molecular Biophysics
