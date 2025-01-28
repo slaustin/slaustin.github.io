@@ -18,9 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/new_resume.pdf
-      button:
-      text: 'Read Thesis'
-      url: 'https://www.proquest.com/docview/2456396252?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
     design:
       css_class: dark
       background:
