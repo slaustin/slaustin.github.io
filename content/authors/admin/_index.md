@@ -62,6 +62,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.proquest.com/docview/2456396252?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
+    # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/new_resume.pdf  
   #- area: MEng Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  date_start: 2016-01-01
