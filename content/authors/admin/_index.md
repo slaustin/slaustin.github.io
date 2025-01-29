@@ -61,8 +61,7 @@ education:
     summary: Using the Orthogonal Space Sampling method within CHARMM, I studied how the structures and dynamics of proteins and their aqueous environment couple together to produce biologically relevant motions. You can find my thesis below, where you can read about my development of a water density PCA analysis and the detection of causal dynamics via my development of GATE, Genetic Algorithm Transfer Entropy.
     button:
       text: 'Read Thesis'
-      url: 'https://www.proquest.com/docview/2456396252?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
-      #url: uploads/new_resume.pdf 
+      url: 'https://www.proquest.com/docview/2456396252?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses' 
   #- area: MEng Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  date_start: 2016-01-01
