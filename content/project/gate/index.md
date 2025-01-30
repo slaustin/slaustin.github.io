@@ -8,6 +8,6 @@ external_link:
 #  - Markdown
 ---
 
-Here is a description of my GATE analysis. as a test, can I see this image? ![Image alt](images/test.png)
+Here is a description of my GATE analysis. as a test, can I see this image? ![Image alt](images/test.png) I can see it! where does the text go next? Right below I suspect...
 
 <!--more-->
