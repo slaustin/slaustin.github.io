@@ -8,6 +8,6 @@ external_link:
 #  - Markdown
 ---
 
-Here is a description of my GATE analysis.
+Here is a description of my GATE analysis. as a test, can I see this image? ![Image alt](images/test.png)
 
 <!--more-->
