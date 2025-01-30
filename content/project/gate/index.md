@@ -1,5 +1,5 @@
 ---
-title: GATE\&#58;Genetic Algorithm Transfer Entropy
+title: 'GATE: Genetic Algorithm Transfer Entropy'
 date: 2020-06-30
 external_link:
 #tags:
