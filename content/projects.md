@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here are several projects that highlight my contributions to biomolecular simulation and analysis.
+      text: THIS SECTION IS UNDER CONSTRUCTION, PARDON THE DUST =) Here are several projects that highlight my contributions to biomolecular simulation and analysis.
       filters:
         folders:
           - project
