@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Assistant Professor of Chemistry
 color: red
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of South Florida
+  - name: New College of Florida
     url:
 
 # Social network links
