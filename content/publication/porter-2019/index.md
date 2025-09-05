@@ -1,0 +1,44 @@
+---
+title: Cooperative Changes in Solvent Exposure Identify Cryptic Pockets, Switches,
+  and Allosteric Coupling
+authors:
+- Justin R. Porter
+- Katelyn E. Moeder
+- Carrie A. Sibbald
+- Maxwell I. Zimmerman
+- Kathryn M. Hart
+- Michael J. Greenberg
+- Gregory R. Bowman
+date: '2019-01-01'
+publishDate: '2025-09-05T20:10:26.682226Z'
+publication_types:
+- article-journal
+publication: '*Biophysical Journal*'
+doi: 10.1016/j.bpj.2018.11.3144
+abstract: 'Proteins are dynamic molecules that undergo conformational changes to a
+  broad spectrum of different excited states. Unfortunately, the small populations
+  of these states make it difficult to determine their structures or functional implications.
+  Computer simulations are an increasingly powerful means to identify and characterize
+  functionally relevant excited states. However, this advance has uncovered a further
+  challenge: it can be extremely difficult to identify the most salient features of
+  large simulation data sets. We reasoned that many functionally relevant conformational
+  changes are likely to involve large, cooperative changes to the surfaces that are
+  available to interact with potential binding partners. To examine this hypothesis,
+  we introduce a method that returns a prioritized list of potentially functional
+  conformational changes by segmenting protein structures into clusters of residues
+  that undergo cooperative changes in their solvent exposure, along with the hierarchy
+  of interactions between these groups. We term these groups exposons to distinguish
+  them from other types of clusters that arise in this analysis and others. We demonstrate,
+  using three different model systems, that this method identifies experimentally
+  validated and functionally relevant conformational changes, including conformational
+  switches, allosteric coupling, and cryptic pockets. Our results suggest that key
+  functional sites are hubs in the network of exposons. As a further test of the predictive
+  power of this approach, we apply it to discover cryptic allosteric sites in two
+  different $β$-lactamase enzymes that are widespread sources of antibiotic resistance.
+  Experimental tests confirm our predictions for both systems. Importantly, we provide
+  the first evidence, to our knowledge, for a cryptic allosteric site in CTX-M-9 $β$-lactamase.
+  Experimentally testing this prediction did not require any mutations and revealed
+  that this site exerts the most potent allosteric control over activity of any pockets
+  found in $β$-lactamases to date. Discovery of a similar pocket that was previously
+  overlooked in the well-studied TEM-1 $β$-lactamase demonstrates the utility of exposons.'
+---

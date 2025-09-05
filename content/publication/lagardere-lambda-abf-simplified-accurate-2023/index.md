@@ -1,0 +1,42 @@
+---
+title: 'Lambda-ABF: Simplified, Accurate and Cost-effective Alchemical Free Energy
+  Computations'
+authors:
+- Louis Lagardère
+- Lise Maurin
+- Olivier Adjoua
+- Krystel El Hage
+- Pierre Monmarché
+- Jean-Philip Piquemal
+- Jérôme Hénin
+date: '2023-01-01'
+publishDate: '2025-09-05T20:10:25.452244Z'
+publication_types:
+- article-journal
+abstract: 'We introduce an efficient and robust method to compute alchemical free
+  energy differences, resulting from the application of multiple walker Adaptive Biasing
+  Force (ABF) in conjunction with strongly damped Langevin $lambda$-dynamics. Unbiased
+  alchemical free energy surfaces are naturally recovered by Thermodynamic Integration
+  (TI). No manual optimization of the $lambda$ schedule is required as the sampling
+  of the $lambda$ variable is continuous and converges towards a uniform distribution.
+  Free diffusion of $lambda$ improves orthogonal relaxation compared to fixed $lambda$
+  methods such as standard TI or Free Energy Perturbation (FEP). Furthermore, the
+  multiple walker strategy provides coverage of orthogonal space in a generic way
+  with minimal user input and negligible computational overhead. Of practical importance,
+  no adiabatic decoupling between the alchemical and Cartesian degrees of freedom
+  is assumed, ensuring unbiased estimates for a wide envelope of numerical parameters.
+  We present two high-performance implementations of the method in production molecular
+  dynamics engines, namely NAMD and Tinker-HP, through coupling with the Colvars open
+  source library. These interfaces enable the combination of the rich feature sets
+  of those packages. We demonstrate the correctness and efficiency of the approach
+  on several real-world cases: from solvation free energies up to ligand-receptor
+  binding (using a recently proposed binding restraint scheme) with both fixed-charge
+  and polarizable models. We find that, for a chosen accuracy, the computational cost
+  is strongly reduced compared to state-of-the-art fixed-lambda methods and that results
+  within 1~kcal/mol of experimental value are recovered for the most complex system.
+  The implementation is publicly available and readily usable by practitioners of
+  current alchemical methods.'
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2307.08006
+---

@@ -1,0 +1,33 @@
+---
+title: 'Structure in Liquid Water: A Study of Spatial Distribution Functions'
+authors:
+- I. M. Svishchev
+- P. G. Kusalik
+date: '1993-01-01'
+publishDate: '2025-09-05T20:10:27.236665Z'
+publication_types:
+- article-journal
+publication: '*The Journal of Chemical Physics*'
+doi: 10.1063/1.465158
+abstract: Despite the fact that an enormous literature has now accumulated on the
+  structure in liquid water, the focus has been primarily limited to the average radial
+  distributions of particles; local (atomic) pair-density maps which span both the
+  radial and the angular coordinates of the separation vector have remained largely
+  unexplored. In this work, we have obtained the spatial distribution functions gOO(r,textohm)
+  and gOH(r,textohm) for liquid water and have applied them to an analysis of the
+  equilibrium structure. Molecular dynamics simulations of SPC/E water have been carried
+  out at temperatures of -10,25, and 100$^∘$C and the local liquid structure examined.
+  It is found that the unfolded O$·s$O distribution demonstrates, in addition to peaks
+  consistent with a continuous tetrahedral network pattern, a distinct maximum in
+  the local atomic pair density at \"interstitial\" separations of about 3.5 Å. This
+  local maximum is lost in the spatially folded radial distribution function gOO(r)
+  due to averaging over the entire angular space. By examining the peaks in gOO(r,textohm)
+  due to nearest neighbors, we have shown that the tetrahedral network coordination
+  number in liquid SPC/E water equals 4.0 and does not depend on temperature. The
+  average number of molecules in additional nontetrahedral coordination, which is
+  found to vary with temperature, has also been extracted, enabling us to establish
+  full average coordination numbers of 4.8-5.0 in the temperature range of -10-100$^∘$C.
+  In addition, we have determined and analyzed statistical distributions for the pair
+  energies and H-bond angles for different water fractions as identified from gOO(r,textohm)
+  and gOH(r, textohm). o̧pyright 1993 American Institute of Physics.
+---

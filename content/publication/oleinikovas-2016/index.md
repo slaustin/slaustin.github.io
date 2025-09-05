@@ -1,0 +1,36 @@
+---
+title: Understanding Cryptic Pocket Formation in Protein Targets by Enhanced Sampling
+  Simulations
+authors:
+- Vladimiras Oleinikovas
+- Giorgio Saladino
+- Benjamin P. Cossins
+- Francesco L. Gervasio
+date: '2016-01-01'
+publishDate: '2025-09-05T20:10:26.392743Z'
+publication_types:
+- article-journal
+publication: '*Journal of the American Chemical Society*'
+doi: 10.1021/jacs.6b05425
+abstract: "Cryptic pockets, i.e. sites on protein targets that only become apparent
+  when drugs bind, provide a promising alternative to classical binding sites for
+  drug development. Here we investigate the nature and dynamical properties of cryptic
+  sites in four phar- macologically relevant targets, while comparing the efficacy
+  of various simulation-based approaches in discovering them. We find that the studied
+  cryptic sites do not corre- spond to local minima in the computed conformational
+  free energy landscape of the un- liganded proteins. They thus promptly close in
+  all the molecular dynamics simulations performed, irrespective of the force-field
+  used. Temperature-based enhanced sampling approaches, such as Parallel Tempering,
+  do not improve the situation, as the entropic term does not help in the opening
+  of the sites. The use of fragment probes helps, as in long simulations occasionally
+  it leads to the opening and binding to the cryptic sites. Our observed mechanism
+  of cryptic site formation is suggestive of an interplay between two classical mechanisms:
+  induced-fit and conformational selection. Employing this insight we developed a
+  novel Hamiltonian Replica Exchange-based method ``SWISH'' (Sampling Water Interfaces
+  through Scaled Hamiltonians), which combined with probes resulted in a promising
+  general approach for cryptic site discovery. We also addressed the issue of ``false-positives''
+  and propose a simple approach to distinguish them from druggable cryptic pockets.
+  Our simulations, whose cumulative sampling time was more than 200 $μ$s , help clarifying
+  the molecular mechanism of pocket formation, providing a solid basis for the choice
+  of an efficient computational method."
+---

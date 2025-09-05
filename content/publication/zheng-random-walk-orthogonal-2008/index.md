@@ -1,0 +1,29 @@
+---
+title: Random Walk in Orthogonal Space to Achieve Efficient Free-Energy Simulation
+  of Complex Systems
+authors:
+- Lianqing Zheng
+- Mengen Chen
+- Wei Yang
+date: '2008-01-01'
+publishDate: '2025-09-05T20:10:27.843556Z'
+publication_types:
+- article-journal
+publication: '*Proceedings of the National Academy of Sciences*'
+doi: 10.1073/pnas.0810631106
+abstract: "In the past few decades, many ingenious efforts have been made in the development
+  of free-energy simulation methods. Because complex systems often undergo nontrivial
+  structural transition during state switching, achieving efficient free-energy calculation
+  can be challenging. As identified earlier, the ``Hamiltonian'' lagging, which reveals
+  the fact that necessary structural relaxation falls behind the order parameter move,
+  has been a primary problem for generally low free-energy simulation efficiency.
+  Here, we propose an algorithm by achieving a random walk in both the order parameter
+  space and its generalized force space; thereby, the order parameter move and the
+  required conformational relaxation can be efficiently synchronized. As demonstrated
+  in both the alchemical transition and the conformational transition, a leapfrog
+  improvement in free-energy simulation efficiency can be obtained; for instance,
+  (i) it allows us to solve a notoriously challenging problem: accurately predicting
+  the pKa value of a buried titratable residue, Asp-66, in the interior of the V66E
+  staphylococcal nuclease mutant, and (ii) it allows us to gain superior efficiency
+  over the metadynamics algorithm."
+---

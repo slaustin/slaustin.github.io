@@ -1,0 +1,28 @@
+---
+title: Distinct Protein Hydration Water Species Defined by Spatially Resolved Spectra
+  of Intermolecular Vibrations
+authors:
+- Viren Pattni
+- Tatiana Vasilevskaya
+- Walter Thiel
+- Matthias Heyden
+date: '2017-01-01'
+publishDate: '2025-09-05T20:10:26.528050Z'
+publication_types:
+- article-journal
+publication: '*The Journal of Physical Chemistry B*'
+doi: 10.1021/acs.jpcb.7b03966
+abstract: In this molecular dynamics simulation study, we analyze intermolecular vibrations
+  in the hydration shell of a solvated enyzme, the membrane type 1--matrix metalloproteinase,
+  with high spatial resolution. Our approach allows us to characterize vibrational
+  signatures of the local hydrogen bond network, the translational mobility of water
+  molecules, as well as the molecular entropy, in specific local environments. Our
+  study demonstrates the heterogeneity of water properties within the hydration shell
+  of a complex biomolecule. We define a classification scheme based on the vibrational
+  density of states that allows us to distinguish separate classes of hydration water
+  species and facilitates the description of hydration water properties at distinct
+  hydration sites. The results demonstrate that no single characteristic of the protein
+  surface is sufficient to determine the properties of nearby water. The protein surface
+  geometry, quantified here by the number of protein atoms in the vicinity of a hydration
+  water ...
+---

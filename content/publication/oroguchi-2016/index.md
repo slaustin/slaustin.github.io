@@ -1,0 +1,31 @@
+---
+title: Changes in Hydration Structure Are Necessary for Collective Motions of a Multi-Domain
+  Protein
+authors:
+- Tomotaka Oroguchi
+- Masayoshi Nakasako
+date: '2016-01-01'
+publishDate: '2025-09-05T20:10:26.412506Z'
+publication_types:
+- article-journal
+publication: '*Scientific Reports*'
+doi: 10.1038/srep26302
+abstract: Conformational motions of proteins are necessary for their functions. To
+  date, experimental studies measuring conformational fluctuations of a whole protein
+  structure have revealed that water molecules hydrating proteins are necessary to
+  induce protein functional motions. However, the underlying microscopic mechanism
+  behind such regulation remains unsolved. To clarify the mechanism, multi-domain
+  proteins are good targets because it is obvious that water molecules between domains
+  play an important role in domain motions. Here, we show how changes in hydration
+  structure microscopically correlate with large-amplitude motions of a multi-domain
+  protein, through molecular dynamics simulation supported by structural analyses
+  and biochemical experiments. We first identified collective domain motions of the
+  protein, which open/close an active-site cleft between domains. The analyses on
+  changes in hydration structure revealed that changes in local hydration in the depth
+  of the cleft are necessary for the domain motion and vice versa. In particular,
+  'wetting'/'drying' at a hydrophobic pocket and 'adsorption'/'dissociation' of a
+  few water molecules at a hydrophilic crevice in the cleft were induced by dynamic
+  rearrangements of hydrogen-bond networks, and worked as a switch for the domain
+  motions. Our results microscopically demonstrated the importance of hydrogen-bond
+  networks of water molecules in understanding energy landscapes of protein motions.
+---

@@ -1,0 +1,29 @@
+---
+title: Structure of a Na+/H+ Antiporter and Insights into Mechanism of Action and
+  Regulation by pH
+authors:
+- Carola Hunte
+- Emanuela Screpanti
+- Miro Venturi
+- Abraham Rimon
+- Etana Padan
+- Hartmut Michel
+date: '2005-01-01'
+publishDate: '2025-09-05T20:10:24.988097Z'
+publication_types:
+- article-journal
+publication: '*Nature*'
+doi: 10.1038/nature03692
+abstract: The control by Na+/H+ antiporters of sodium/proton concentration and cell
+  volume is crucial for the viability of all cells. Adaptation to high salinity and/or
+  extreme pH in plants and bacteria or in human heart muscles requires the action
+  of Na+/H+ antiporters. Their activity is tightly controlled by pH. Here we present
+  the crystal structure of pH-downregulated NhaA, the main antiporter of Escherichia
+  coli and many enterobacteria. A negatively charged ion funnel opens to the cytoplasm
+  and ends in the middle of the membrane at the putative ion-binding site. There,
+  a unique assembly of two pairs of short helices connected by crossed, extended chains
+  creates a balanced electrostatic environment. We propose that the binding of charged
+  substrates causes an electric imbalance, inducing movements, that permit a rapid
+  alternating-access mechanism. This ion-exchange machinery is regulated by a conformational
+  change elicited by a pH signal perceived at the entry to the cytoplasmic funnel.
+---

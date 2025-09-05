@@ -1,0 +1,32 @@
+---
+title: 'Transient Access to the Protein Interior: Simulation versus NMR'
+authors:
+- Filip Persson
+- Bertil Halle
+date: '2013-01-01'
+publishDate: '2025-09-05T20:10:26.568893Z'
+publication_types:
+- article-journal
+publication: '*Journal of the American Chemical Society*'
+doi: 10.1021/ja403405d
+abstract: Many proteins rely on rare structural fluctuations for their function, whereby
+  solvent and other small molecules gain transient access to internal cavities. In
+  magnetic relaxation dispersion (MRD) experiments, water molecules buried in such
+  cavities are used as intrinsic probes of the intermittent protein motions that govern
+  their exchange with external solvent. While this has allowed a detailed characterization
+  of exchange kinetics for several proteins, little is known about the exchange mechanism.
+  Here, we use a millisecond all-atom MD trajectory produced by Shaw et al. (Science2010,
+  330, 341) to characterize water exchange from the four internal hydration sites
+  in the protein bovine pancreatic trypsin inhibitor. Using a recently developed stochastic
+  point process approach, we compute the survival correlation function probed by MRD
+  experiments as well as other quantities designed to validate the exchange-mediated
+  orientational randomization (EMOR) model used to interpret the MRD data. The EMOR
+  model is found to be quantitatively accurate, and the simulation reproduces the
+  experimental mean survival times for all four sites with activation energy discrepancies
+  in the range 0-3 kBT. On the other hand, the simulated hydration sites are somewhat
+  too flexible, and the water flip barrier is underestimated by up to 6 kBT. The simulation
+  reveals that water molecules gain access to the internal sites by a transient aqueduct
+  mechanism, migrating as single-file water chains through transient ($<$5 ns) tunnels
+  or pores. The present study illustrates the power of state-of-the-art molecular
+  dynamics simulations in validating and extending experimental results.
+---

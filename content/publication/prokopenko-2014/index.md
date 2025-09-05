@@ -1,0 +1,27 @@
+---
+title: Transfer Entropy and Transient Limits of Computation
+authors:
+- Mikhail Prokopenko
+- Joseph T. Lizier
+date: '2014-01-01'
+publishDate: '2025-09-05T20:10:26.711407Z'
+publication_types:
+- article-journal
+publication: '*Scientific Reports*'
+doi: 10.1038/srep05394
+abstract: Transfer entropy is a recently introduced information-theoretic measure
+  quantifying directed statistical coherence between spatiotemporal processes, and
+  is widely used in diverse fields ranging from finance to neuroscience. However,
+  its relationships to fundamental limits of computation, such as Landauer's limit,
+  remain unknown. Here we show that in order to increase transfer entropy (predictability)
+  by one bit, heat flow must match or exceed Landauer's limit. Importantly, we generalise
+  Landauer's limit to bi-directional information dynamics for non-equilibrium processes,
+  revealing that the limit applies to prediction, in addition to retrodiction (information
+  erasure). Furthermore, the results are related to negentropy, and to Bremermann's
+  limit and the Bekenstein bound, producing, perhaps surprisingly, lower bounds on
+  the computational deceleration and information loss incurred during an increase
+  in predictability about the process. The identified relationships set new computational
+  limits in terms of fundamental physical quantities, and establish transfer entropy
+  as a central measure connecting information theory, thermodynamics and theory of
+  computation.
+---

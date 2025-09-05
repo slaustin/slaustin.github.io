@@ -1,0 +1,40 @@
+---
+title: Evidence of Coexistence of Change of Caged Dynamics at Tgand the Dynamic Transition
+  at Tdin Solvated Proteins
+authors:
+- S. Capaccioli
+- K. L. Ngai
+- S. Ancherbak
+- A. Paciaroni
+date: '2012-01-01'
+publishDate: '2025-09-05T20:10:23.446539Z'
+publication_types:
+- article-journal
+publication: '*Journal of Physical Chemistry B*'
+doi: 10.1021/jp2057892
+abstract: Mossbauer spectroscopy and neutron scattering measurements on proteins embedded
+  in solvents including water and aqueous mixtures have emphasized the observation
+  of the distinctive temperature dependence of the atomic mean square displacements,
+  $<$u2$>$, commonly referred to as the dynamic transition at some temperature Td.
+  At low temperatures, $<$u2$>$ increases slowly, but it assume stronger temperature
+  dependence after crossing Td, which depends on the time/frequency resolution of
+  the spectrometer. Various authors have made connection of the dynamics of solvated
+  proteins including the dynamic transition to that of glass-forming substances. Notwithstanding,
+  no connection is made to the similar change of temperature dependence of $<$u2$>$
+  obtained by quasielastic neutron scattering when crossing the glass transition temperature
+  Tg, generally observed in inorganic, organic and polymeric glass-formers. Evidences
+  are presented to show that such change of the temperature dependence of $<$u2$>$
+  from neutron scattering at Tg is present in hydrated or solvated proteins, as well
+  as in the solvents used unsurprisingly since the latter is just another organic
+  glass-formers. The $<$u2$>$ obtained by neutron scattering at not so low temperatures
+  has contributions from the dissipation of molecules while caged by the anharmonic
+  intermolecular potential at times before dissolution of cages by the onset of the
+  Johari-Goldstein beta-relaxation. The universal change of $<$u2$>$ at Tg of glass-formers
+  had been rationalized by sensitivity to change in volume and entropy of the beta-relaxation,
+  which is passed onto the dissipation of the caged molecules and its contribution
+  to $<$u2$>$. The same rationalization applies to hydrated and solvated proteins
+  for the observed change of $<$u2$>$ at Tg.
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1106.4056
+---

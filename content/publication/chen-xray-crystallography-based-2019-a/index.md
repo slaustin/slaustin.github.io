@@ -1,0 +1,48 @@
+---
+title: X-Ray Crystallography--Based Structural Elucidation of Enzyme-Bound Intermediates
+  along the 1-Deoxy-d-Xylulose 5-Phosphate Synthase Reaction Coordinate
+authors:
+- Percival Yang-Ting Chen
+- Alicia A. DeColli
+- Caren L. Freel Meyers
+- Catherine L. Drennan
+date: '2019-01-01'
+publishDate: '2025-09-05T20:10:23.618337Z'
+publication_types:
+- article-journal
+publication: '*Journal of Biological Chemistry*'
+doi: 10.1074/jbc.RA119.009321
+abstract: '1-Deoxy-d-xylulose 5-phosphate synthase (DXPS) uses thiamine diphosphate
+  (ThDP) to convert pyruvate and d-glyceraldehyde 3-phosphate (d-GAP) into 1-deoxy-d-xylulose
+  5-phosphate (DXP), an essential bacterial metabolite. DXP is not utilized by humans;
+  hence, DXPS has been an attractive antibacterial target. Here, we investigate DXPS
+  from Deinococcus radiodurans (DrDXPS), showing that it has similar kinetic parameters
+  Kmd-GAP and Kmpyruvate (54 textpm 3 and 11 textpm 1 $μ$m, respectively) and comparable
+  catalytic activity (kcat = 45 textpm 2 min-1) with previously studied bacterial
+  DXPS enzymes and employing it to obtain missing structural data on this enzyme family.
+  In particular, we have determined crystallographic snapshots of DrDXPS in two states
+  along the reaction coordinate: a structure of DrDXPS bound to C2$α$-phosphonolactylThDP
+  (PLThDP), mimicking the native pre-decarboxylation intermediate C2$α$-lactylThDP
+  (LThDP), and a native post-decarboxylation state with a bound enamine intermediate.
+  The 1.94-Å-resolution structure of PLThDP-bound DrDXPS delineates how two active-site
+  histidine residues stabilize the LThDP intermediate. Meanwhile, the 2.40-Å-resolution
+  structure of an enamine intermediate-bound DrDXPS reveals how a previously unknown
+  17-Å conformational change removes one of the two histidine residues from the active
+  site, likely triggering LThDP decarboxylation to form the enamine intermediate.
+  These results provide insight into how the bi-substrate enzyme DXPS limits side
+  reactions by arresting the reaction on the less reactive LThDP intermediate when
+  its cosubstrate is absent. They also offer a molecular basis for previous low-resolution
+  experimental observations that correlate decarboxylation of LThDP with protein conformational
+  changes.'
+tags:
+- 1-deoxy-D-xylulose 5-phosphate synthase (DXPS)
+- bacterial metabolism
+- conformational change
+- conformational dynamics
+- crystallography
+- decarboxylase
+- DXP synthase
+- methylerythritol phosphate (MEP) pathway
+- pyruvate
+- thiamine diphosphate (ThDP)
+---

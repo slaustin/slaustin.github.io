@@ -1,0 +1,30 @@
+---
+title: The Interionic Potential of Mean Force in a Molecular Polar Solvent from an
+  Extended RISM Equation
+authors:
+- Fumio Hirata
+- Peter J. Rossky
+- B. Montgomery Pettitt
+date: '1983-01-01'
+publishDate: '2025-09-05T20:10:24.875309Z'
+publication_types:
+- article-journal
+publication: '*The Journal of Chemical Physics*'
+doi: 10.1063/1.445090
+abstract: The generalization of a recently proposed extension of the RISM integral
+  equation to infinitely dilute isolated ions and ion pairs in polar, interaction
+  site model, molecular solvents is outlined. An essential element of the development
+  is the explicit separation of the contributions which yield a continuum dielectric
+  solvent model from the remainder. Thus, it is only for this correction that one
+  relies on the integral equation. Application is made to a system consisting of a
+  diatomic polar solvent and atomic ions of varied charge and radius. The results
+  of these calculations show that the present approach produces sensible qualitative
+  features of ionic solvation including an appropriately varying degree of solvent
+  orientational saturation with ionic charge and radius. Correspondingly, the calculated
+  interionic potentials of mean force reproduce the same basic features manifest in
+  already available studies of dipolar hard sphere solvents, including the positions
+  of oscillatory features in the structure and the relatively short spatial range
+  of the corrections to the continuum dielectric theory. A quantitative evaluation
+  of the accuracy of the present predictions is not possible with presently available
+  data. o̧pyright 1983 American Institute of Physics.
+---

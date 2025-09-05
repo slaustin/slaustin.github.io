@@ -1,0 +1,35 @@
+---
+title: 'Disease-Causing Mutations in Proteins: Structural Analysis of the CYP1b1 Mutations
+  Causing Primary Congenital Glaucoma in Humans'
+authors:
+- Malkaram S. Achary
+- Aramati B.M. Reddy
+- Subhabrata Chakrabarti
+- Shirly G. Panicker
+- Anil K. Mandal
+- Niyaz Ahmed
+- Dorairajan Balasubramanian
+- Seyed E. Hasnain
+- Hampapathalu A. Nagarajaram
+date: '2006-01-01'
+publishDate: '2025-09-05T20:10:22.737331Z'
+publication_types:
+- article-journal
+publication: '*Biophysical Journal*'
+doi: 10.1529/biophysj.106.085498
+abstract: 'In this communication, we report an in-depth structure-based analysis of
+  the human CYP1b1 protein carrying disease-causing mutations that are discovered
+  in patients suffering from primary congenital glaucoma (PCG). The \"wild-type\"
+  and the PCG mutant structures of the human CYP1b1 protein obtained from comparative
+  modeling were subjected to long molecular dynamics simulations with an intention
+  of studying the possible impact of these mutations on the protein structure and
+  hence its function. Analysis of time evolution as well as time averaged values of
+  various structural properties - especially of those of the functionally important
+  regions: the heme binding region, substrate binding region, and substrate access
+  channel - gave some insights into the possible structural characteristics of the
+  disease mutant and the wild-type forms of the protein. In a nutshell, compared to
+  the wild-type the core regions in the mutant structures are associated with subtle
+  but significant changes, and the functionally important regions seem to adopt such
+  structures that are not conducive for the wild-type-like functionality. o̧pyright
+  2006 by the Biophysical Society.'
+---

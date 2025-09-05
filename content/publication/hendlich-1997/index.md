@@ -1,0 +1,31 @@
+---
+title: 'LIGSITE: Automatic and Efficient Detection of Potential Small Molecule-Binding
+  Sites in Proteins'
+authors:
+- Manfred Hendlich
+- Friedrich Rippmann
+- Gerhard Barnickel
+date: '1997-01-01'
+publishDate: '2025-09-05T20:10:24.772431Z'
+publication_types:
+- article-journal
+publication: '*Journal of Molecular Graphics and Modelling*'
+doi: 10.1016/S1093-3263(98)00002-3
+abstract: LIGSITE is a new program for the automatic and time-efficient detection
+  of pockets on the surface of proteins that may act as binding sites for small molecule
+  ligands. Pockets are identified with a series of simple operations on a cubic grid.
+  Using a set of receptor-ligand complexes we show that LIGSITE is able to identify
+  the binding sites of small molecule ligands with high precision. The main advantage
+  of LIGSITE is its speed. Typical search times are in the region of 5 to 20 s for
+  medium-sized proteins. LIGSITE is therefore well suited for identification of pockets
+  in large sets of proteins (e.g., protein families) for comparative studies. For
+  graphical display LIGSITE produces VRML representations of the protein-ligand complex
+  and the binding site for display with a VRML viewer such as WebSpace from SGI.
+tags:
+- Binding sites
+- Pockets
+- Protein ligands
+- Receptor-ligand complexes
+- Surface depressions
+- VRML
+---

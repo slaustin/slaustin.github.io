@@ -1,0 +1,39 @@
+---
+title: 'CNNsite: Prediction of DNA-binding Residues in Proteins Using Convolutional
+  Neural Network with Sequence Features'
+authors:
+- Jiyun Zhou
+- Qin Lu
+- Ruifeng Xu
+- Lin Gui
+- Hongpeng Wang
+date: '2017-01-01'
+publishDate: '2025-09-05T20:10:27.870997Z'
+publication_types:
+- article-journal
+publication: '*Proceedings - 2016 IEEE International Conference on Bioinformatics
+  and Biomedicine, BIBM 2016*'
+doi: 10.1109/BIBM.2016.7822496
+abstract: Protein-DNA complexes play crucial roles in gene regulation. The prediction
+  of the residues involved in protein-DNA interactions is critical for understanding
+  gene regulation. Although many methods have been proposed, most of them overlooked
+  motif features. Motif features are sub sequences and are important for the recognition
+  between a protein and DNA. In order to efficiently use motif features for the prediction
+  of DNA-binding residues, we first apply the Convolutional Neural Network (CNN) method
+  to capture the motif features from the sequences around the target residues. CNN
+  modeling consists of a set of learnable motif detectors that can capture the important
+  motif features by scanning the sequences around the target residues. Then we use
+  a neural network classifier, referred to as CNNsite, by combining the captured motif
+  features, sequence features and evolutionary features to predict binding residues
+  from sequences. The datasets PDNA-62 and PDNA-224 are used to evaluate the performance
+  of CNNsite by five-fold cross-validation. Performance evaluation shows that the
+  motif features performs better than sequence features and evolutionary features
+  with at least 6.73% on ST, 0.097 on MCC and 0.069 on AUC. When comparing with previously
+  published methods, CNNsite performs better with at least 0.019 on MCC, 4.37% on
+  ST and 0.040 on AUC. CNNsite is also evaluated on an independent dataset TS-72 and
+  CNNsite outperforms the previous methods by at least 0.012 on AUC. The discriminant
+  powers of the motif features of size from 2 to 6 residues show that many motif features
+  with large discriminant power are composed by the residues that play important roles
+  in the DNA-protein interactions. The standalone version of the CNNsite is available
+  at http://hlt.hitsz.edu.cn:8080/CNNsite/.
+---

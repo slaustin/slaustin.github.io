@@ -1,0 +1,32 @@
+---
+title: Mapping the Hydrogen Bond Networks in the Catalytic Subunit of Protein Kinase
+  A Using H/D Fractionation Factors
+authors:
+- Geoffrey C. Li
+- Atul K. Srivastava
+- Jonggul Kim
+- Susan S. Taylor
+- Gianluigi Veglia
+date: '2015-01-01'
+publishDate: '2025-09-05T20:10:25.659185Z'
+publication_types:
+- article-journal
+publication: '*Biochemistry*'
+doi: 10.1021/acs.biochem.5b00387
+abstract: Protein kinase A is a prototypical phosphoryl transferase, sharing its catalytic
+  core (PKA-C) with the entire kinase family. PKA-C substrate recognition, active
+  site organization, and product re-lease depend on the enzyme's conformational transitions
+  from the open to the closed state, which regulate its allosteric cooperativity.
+  Here, we used equilibrium NMR hydrogen/deuterium (H/D) fractionation factors ($ǎrphi$)
+  to probe the changes in the strength of hydrogen bonds within the kinase upon binding
+  the nucleotide and a pseudo-substrate peptide (PKI5-24). We found that the $řphi$
+  values decrease upon binding both ligands, suggesting that the overall hydrogen
+  bond networks in both the small and large lobes of PKA-C becomes stronger. However,
+  we observed several important exceptions, with residues displaying higher $vp̌hi$
+  values upon ligand binding. Notably, the changes in $vaȟi$ values are not localized
+  near the ligand binding pockets; rather, they are radiated throughout the entire
+  enzyme. We conclude that, upon ligand and pseudo-substrate binding, the hydrogen
+  bond networks undergo extensive reorganization, revealing that the open-to-close
+  transitions require global rearrangements of the internal forces that stabilize
+  the enzyme's fold.
+---

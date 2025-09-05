@@ -1,0 +1,51 @@
+---
+title: Atomic Resolution Mechanism of Ligand Binding to a Solvent Inaccessible Cavity
+  in T4 Lysozyme
+authors:
+- Jagannath Mondal
+- Navjeet Ahalawat
+- Subhendu Pandit
+- Lewis E. Kay
+- Pramodh Vallurupalli
+date: '2018-01-01'
+publishDate: '2025-09-05T20:10:26.178192Z'
+publication_types:
+- article-journal
+publication: '*PLOS Computational Biology*'
+doi: 10.1371/journal.pcbi.1006180
+abstract: Ligand binding sites in proteins are often localized to deeply buried cavities,
+  inaccessible to bulk solvent. Yet, in many cases binding of cognate ligands occurs
+  rapidly. An intriguing system is presented by the L99A cavity mutant of T4 Lysozyme
+  (T4L L99A) that rapidly binds benzene (~106 M-1s-1). Although the protein has long
+  served as a model system for protein thermodynamics and crystal structures of both
+  free and benzene-bound T4L L99A are available, the kinetic pathways by which benzene
+  reaches its solvent-inaccessible binding cavity remain elusive. The current work,
+  using extensive molecular dynamics simulation, achieves this by capturing the complete
+  process of spontaneous recognition of benzene by T4L L99A at atomistic resolution.
+  A series of multi-microsecond unbiased molecular dynamics simulation trajectories
+  unequivocally reveal how benzene, starting in bulk solvent, diffuses to the protein
+  and spontaneously reaches the solvent inaccessible cavity of T4L L99A. The simulated
+  and high-resolution X-ray derived bound structures are in excellent agreement. A
+  robust four-state Markov model, developed using cumulative 60 $μ$s trajectories,
+  identifies and quantifies multiple ligand binding pathways with low activation barriers.
+  Interestingly, none of these identified binding pathways required large conformational
+  changes for ligand access to the buried cavity. Rather, these involve transient
+  but crucial opening of a channel to the cavity via subtle displacements in the positions
+  of key helices (helix4/helix6, helix7/helix9) leading to rapid binding. Free energy
+  simulations further elucidate that these channel-opening events would have been
+  unfavorable in wild type T4L. Taken together and via integrating with results from
+  experiments, these simulations provide unprecedented mechanistic insights into the
+  complete ligand recognition process in a buried cavity. By illustrating the power
+  of subtle helix movements in opening up multiple pathways for ligand access, this
+  work offers an alternate view of ligand recognition in a solvent-inaccessible cavity,
+  contrary to the common perception of a single dominant pathway for ligand binding.
+tags:
+- Benzene
+- Binding analysis
+- Biochemical simulations
+- Biophysical simulations
+- Crystal structure
+- Free energy
+- Protein structure
+- Thermodynamics
+---

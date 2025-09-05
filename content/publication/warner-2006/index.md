@@ -1,0 +1,34 @@
+---
+title: Identification of a Lead Small-Molecule Inhibitor of the Aurora Kinases Using
+  a Structure-Assisted, Fragment-Based Approach
+authors:
+- Steven L. Warner
+- Sridevi Bashyam
+- Hariprasad Vankayalapati
+- David J. Bearss
+- Haiyong Han
+- Daniel D. Von Hoff
+- Laurence H. Hurley
+date: '2006-01-01'
+publishDate: '2025-09-05T20:10:27.562196Z'
+publication_types:
+- article-journal
+publication: '*Molecular Cancer Therapeutics*'
+doi: 10.1158/1535-7163.MCT-05-0524
+abstract: Aurora A and Aurora B are potential targets for anticancer drug development
+  due to their roles in tumorigenesis and disease progression. To identify small-molecule
+  inhibitors of the Aurora kinases, we undertook a structure-based design approach
+  that used three-dimensional structural models of the Aurora A kinase and molecular
+  docking simulations of chemical entities. Based on these computational methods,
+  a new generation of inhibitors derived from quinazoline and pyrimidine-based tricyclic
+  scaffolds were synthesized and evaluated for Aurora A kinase inhibitory activity,
+  which led to the identification of 4-(6,7-dimethoxy-9H-1, 3,9-triaza-fluoren-4-yl)-piperazine-1-carbothioic
+  acid [4-(pyrimidin-2-ylsulfamoyl)-phenyl]-amide. The lead compound showed selectivity
+  for the Aurora kinases when it was evaluated against a panel of diverse kinases.
+  Additionally, the compound was evaluated in cell-based assays, showing a dose-dependent
+  decrease in phospho-histone H3 levels and an arrest of the cell cycle in the G2-M
+  fraction. Although biological effects were observed only at relatively high concentrations,
+  this chemical series provides an excellent starting point for drug optimization
+  and further development. Copyright o̧pyright 2006 American Association for Cancer
+  Research.
+---

@@ -1,0 +1,28 @@
+---
+title: 'Collective Motions in Proteins: A Covariance Analysis of Atomic Fluctuations
+  in Molecular Dynamics and Normal Mode Simulations'
+authors:
+- Toshiko Ichiye
+- Martin Karplus
+date: '1991-01-01'
+publishDate: '2025-09-05T20:10:25.015559Z'
+publication_types:
+- article-journal
+publication: '*Proteins: Structure, Function, and Bioinformatics*'
+doi: 10.1002/prot.340110305
+abstract: A method is described for identifying collective motions in proteins from
+  molecular dynamics trajectories or normal mode simulations. The method makes use
+  of the covariances of atomic positional fluctuations. It is illustrated by an analysis
+  of the bovine pancreatic trypsin inhibitor. Comparison of the covariance and cross-correlation
+  matrices shows that the relative motions have many similar features in the different
+  simulations. Many regions of the protein, especially regions of secondary structure,
+  move in a correlated manner. Anharmonic effects, which are included in the molecular
+  dynamics simulations but not in the normal analysis, are of some importance in determining
+  the larger scale collective motions, but not the more local fluctuations. Comparisons
+  of molecular dynamics simulations in the present and absence of solvent indicate
+  that the environment is of significance for the long-range motions.
+tags:
+- collective motions
+- molecular dynamics
+- normal modes
+---

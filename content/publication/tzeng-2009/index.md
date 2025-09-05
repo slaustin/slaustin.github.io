@@ -1,0 +1,32 @@
+---
+title: Dynamic Activation of an Allosteric Regulatory Protein
+authors:
+- Shiou Ru Tzeng
+- Charalampos G. Kalodimos
+date: '2009-01-01'
+publishDate: '2025-09-05T20:10:27.387400Z'
+publication_types:
+- article-journal
+publication: '*Nature*'
+doi: 10.1038/nature08560
+abstract: Allosteric regulation is used as a very efficient mechanism to control protein
+  activity in most biological processes, including signal transduction, metabolism,
+  catalysis and gene regulation1, 2, 3, 4, 5, 6. Allosteric proteins can exist in
+  several conformational states with distinct binding or enzymatic activity. Effectors
+  are considered to function in a purely structural manner by selectively stabilizing
+  a specific conformational state, thereby regulating protein activity. Here we show
+  that allosteric proteins can be regulated predominantly by changes in their structural
+  dynamics. We have used NMR spectroscopy and isothermal titration calorimetry to
+  characterize cyclic AMP (cAMP) binding to the catabolite activator protein (CAP),
+  a transcriptional activator that has been a prototype for understanding effector-mediated
+  allosteric control of protein activity7. cAMP switches CAP from the `off' state
+  (inactive), which binds DNA weakly and non-specifically, to the `on' state (active),
+  which binds DNA strongly and specifically. In contrast, cAMP binding to a single
+  CAP mutant, CAP-S62F, fails to elicit the active conformation; yet, cAMP binding
+  to CAP-S62F strongly activates the protein for DNA binding. NMR and thermodynamic
+  analyses show that despite the fact that CAP-S62F-cAMP2 adopts the inactive conformation,
+  its strong binding to DNA is driven by a large conformational entropy originating
+  in enhanced protein motions induced by DNA binding. The results provide strong evidence
+  that changes in protein motions may activate allosteric proteins that are otherwise
+  structurally inactive.
+---

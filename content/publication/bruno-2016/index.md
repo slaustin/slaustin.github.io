@@ -1,0 +1,48 @@
+---
+title: The Chemosensitizing Agent Lubeluzole Binds Calmodulin and Inhibits Ca2+/Calmodulin-Dependent
+  Kinase II
+authors:
+- Claudio Bruno
+- Maria Maddalena Cavalluzzi
+- Maria Rosaria Rusciano
+- Angelo Lovece
+- Antonio Carrieri
+- Riccardo Pracella
+- Giulia Giannuzzi
+- Lorenzo Polimeno
+- Maurizio Viale
+- Maddalena Illario
+- Carlo Franchini
+- Giovanni Lentini
+date: '2016-01-01'
+publishDate: '2025-09-05T20:10:23.387773Z'
+publication_types:
+- article-journal
+publication: '*European Journal of Medicinal Chemistry*'
+doi: 10.1186/1471-2105-10-168
+abstract: An affinity capillary electrophoresis (ACE) method to estimate apparent
+  dissociation constants between bovine brain calmodulin (CaM) and non-peptidic ligands
+  was developed. The method was validated reproducing the dissociation constants of
+  a number of well-known CaM ligands. In particular, the potent antagonist 125-C9
+  was ad hoc synthesized through an improved synthetic procedure. The ACE method was
+  successfully applied to verify CaM affinity for lubeluzole, a well-known neuroprotective
+  agent recently proved useful to potentiate the activity of anti-cancer drugs. Lubeluzole
+  was slightly less potent than 125-C9 (Kd Combining double low line 2.9 textpm 0.7
+  and 0.47 textpm 0.06 1/4M, respectively) and displayed Ca2+/calmodulin-dependent
+  kinase II (CaMKII) inhibition (IC50 Combining double low line 40 textpm 1 1/4M).
+  Possible binding modes of lubeluzole to CaM were explored by docking studies based
+  on the X-ray crystal structures of several trifluoperazine-CaM complexes. An estimated
+  dissociation constant in good agreement with the experimental one was found and
+  the main aminoacidic residues and interactions contributing to complex formation
+  were highlighted. The possibility that interference with Ca2+ pathways may contribute
+  to the previously observed chemosensitizing effects of lubeluzole on human ovarian
+  adenocarcinoma and lung carcinoma cells are discussed.
+tags:
+- Affinity capillary electrophoresis
+- Anti-cancer activity
+- Calmodulin
+- Docking
+- Human carcinoma cells
+- Lubeluzole
+- Voltage-gated sodium channels
+---

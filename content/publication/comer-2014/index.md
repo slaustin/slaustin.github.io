@@ -1,0 +1,35 @@
+---
+title: Calculation of Lipid-Bilayer Permeabilities Using an Average Force
+authors:
+- Jeffrey Comer
+- Klaus Schulten
+- Christophe Chipot
+date: '2014-01-01'
+publishDate: '2025-09-05T20:10:23.703678Z'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Theory and Computation*'
+doi: 10.1021/ct400925s
+abstract: Calculations of lipid bilayer permeabilities from first principles, using
+  molecular simulations, would be valuable to rapidly assess the bioavailability of
+  drug candidates, as well as to decipher, at the atomic level, the mechanisms that
+  underlie the translocation of permeants. The most common theoretical approach, the
+  solubility-diffusion model, requires determination of the free energy and the diffusivity
+  as functions of the position of the permeant. Quantitative predictions of permeability
+  have, however, been stymied by acute difficulties in calculating the diffusivity,
+  inadequate sampling, and, most insidiously, systematic biases due to imperfections
+  in the force field, simulation parameters, and the inherent limitations of the diffusive
+  model. In the present work, we combine importance-sampling simulations employing
+  an adaptive biasing force with a Bayesian-inference algorithm to determine the free
+  energy and diffusivity with noteworthy precision and spatial resolution. In multimicrosecond
+  simulations, we probe the sensitivity of the permeability estimates to different
+  aspects of the methodology, including the truncation of short-range interactions,
+  the thermostat, the force-field parameters of the permeant, the time scale over
+  which the diffusivity is estimated, and the size of the simulated system. The force-field
+  parameters and time scale dependence of the diffusivities impose the greatest uncertainties
+  on the permeability estimates. Our simulations highlight the importance of membrane
+  distortion due to the presence of the permeant, which may be partially suppressed
+  if the bilayer patch is not large enough. We suggest that improvements to force
+  fields and more robust kinetic models may be needed to reduce systematic errors
+  below a factor of two. o̧pyright 2014 American Chemical Society.
+---

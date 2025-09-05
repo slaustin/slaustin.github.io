@@ -1,0 +1,39 @@
+---
+title: 'GAtor: A First-Principles Genetic Algorithm for Molecular Crystal Structure
+  Prediction'
+authors:
+- Farren Curtis
+- Xiayue Li
+- Timothy Rose
+- Álvaro Vázquez-Mayagoitia
+- Saswata Bhattacharya
+- Luca M. Ghiringhelli
+- Noa Marom
+date: '2018-01-01'
+publishDate: '2025-09-05T20:10:23.774214Z'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Theory and Computation*'
+doi: 10.1021/acs.jctc.7b01152
+abstract: We present the implementation of GAtor, a massively parallel, first-principles
+  genetic algorithm (GA) for molecular crystal structure prediction. GAtor is written
+  in Python and currently interfaces with the FHI-aims code to perform local optimizations
+  and energy evaluations using dispersion-inclusive density functional theory (DFT).
+  GAtor offers a variety of fitness evaluation, selection, crossover, and mutation
+  schemes. Breeding operators designed specifically for molecular crystals provide
+  a balance between exploration and exploitation. Evolutionary niching is implemented
+  in GAtor by using machine learning to cluster the dynamically updated population
+  by structural similarity and then employing a cluster-based fitness function. Evolutionary
+  niching promotes uniform sampling of the potential energy surface by evolving several
+  subpopulations, which helps overcome initial pool biases and selection biases (genetic
+  drift). The various settings offered by GAtor increase the likelihood of locating
+  numerous low-energy minima, including those located in disconnected, hard to reach
+  regions of the potential energy landscape. The best structures generated are re-relaxed
+  and re-ranked using a hierarchy of increasingly accurate DFT functionals and dispersion
+  methods. GAtor is applied to a chemically diverse set of four past blind test targets,
+  characterized by different types of intermolecular interactions. The experimentally
+  observed structures and other low-energy structures are found for all four targets.
+  In particular, for Target II, 5-cyano-3-hydroxythiophene, the top ranked putative
+  crystal structure is a Z$prime$ = 2 structure with P1symmetry and a scaffold packing
+  motif, which has not been reported previously.
+---

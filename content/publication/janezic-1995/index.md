@@ -1,0 +1,34 @@
+---
+title: Harmonic Analysis of Large Systems. III. Comparison with Molecular Dynamics
+authors:
+- Dušanka Janežič
+- Richard M. Venable
+- Bernard R. Brooks
+date: '1995-01-01'
+publishDate: '2025-09-05T20:10:25.088629Z'
+publication_types:
+- article-journal
+publication: '*Journal of Computational Chemistry*'
+doi: 10.1002/jcc.540161211
+abstract: Atomic motions in bovine pancreatic trypsin inhibitor (BPTI), derived from
+  molecular dynamics, harmonic analysis, and quasiharmonic analysis, are compared
+  when a single protein model, energy parameters, and environment are employed. Molecular
+  dynamics (MD) was carried out for 2 nanoseconds. An average structure was determined
+  from the last nanosecond of the MD simulation, when no major structural changes
+  were observed. This structure was used for several harmonic analysis calculations
+  as well as for a reference structure for the quasiharmonic analysis, for both full
+  basis and reduced basis sets. In contrast to the harmonic analysis results, the
+  quasiharmonic reduced basis calculation using a spherical harmonics reduced basis
+  provided good agreement with the full basis calculation, suggesting that when anharmonic
+  effects are considered, BPTI can behave as a homogeneous object. An extensive analysis
+  of the normal modes from a diverse set of 201 minimized MD simulation frames was
+  performed. On only the sub-picosecond time scale were energy minima revisited after
+  a transition to another state. This analysis shows that the dynamics average structure
+  is not representative of the simulation frames in terms of energy and vibrational
+  frequencies. For this model of BPTI, 42% of the motion (mean-squared fluctuation)
+  can be attributed to harmonic limit behavior. A spectral analysis of the correlation
+  function of deformation for a particular normal mode or quasiharmonic mode can be
+  used to determine the time scales of motions which correspond to harmonic vibration,
+  large-scale drift, or sharp transitions between local substrates. o̧pyright 1995
+  John Wiley & Sons, Inc. Copyright p̧yright 1995 John Wiley & Sons, Inc.
+---

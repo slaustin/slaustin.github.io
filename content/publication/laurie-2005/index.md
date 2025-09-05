@@ -1,0 +1,35 @@
+---
+title: 'Q-SiteFinder: An Energy-Based Method for the Prediction of Protein-Ligand
+  Binding Sites'
+authors:
+- Alasdair T.R. Laurie
+- Richard M. Jackson
+date: '2005-01-01'
+publishDate: '2025-09-05T20:10:25.512485Z'
+publication_types:
+- article-journal
+publication: '*Bioinformatics*'
+doi: 10.1093/bioinformatics/bti315
+abstract: 'Motivation: Identifying the location of ligand binding sites on a protein
+  is of fundamental importance for a range of applications including molecular docking,
+  de novo drug design and structural identification and comparison of functional sites.
+  Here, we describe a new method of ligand binding site prediction called Q-SiteFinder.
+  It uses the interaction energy between the protein and a simple van der Waals probe
+  to locate energetically favourable binding sites. Energetically favourable probe
+  sites are clustered according to their spatial proximity and clusters are then ranked
+  according to the sum of interaction energies for sites within each cluster. Results:
+  There is at least one successful prediction in the top three predicted sites in
+  90% of proteins tested when using Q-SiteFinder. This success rate is higher than
+  that of a commonly used pocket detection algorithm (Pocket-Finder) which uses geometric
+  criteria. Additionally, Q-SiteFinder is twice as effective as Pocket-Finder in generating
+  predicted sites that map accurately onto ligand coordinates. It also generates predicted
+  sites with the lowest average volumes of the methods examined in this study. Unlike
+  pocket detection, the volumes of the predicted sites appear to show relatively low
+  dependence on protein volume and are similar in volume to the ligands they contain.
+  Restricting the size of the pocket is important for reducing the search space required
+  for docking and de novo drug design or site comparison. The method can be applied
+  in structural genomics studies where protein binding sites remain uncharacterized
+  since the 86% success rate for unbound proteins appears to be only slightly lower
+  than that of ligand-bound proteins. o̧pyright The Author 2005. Published by Oxford
+  University Press. All rights reserved.'
+---

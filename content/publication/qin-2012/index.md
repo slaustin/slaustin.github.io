@@ -1,0 +1,34 @@
+---
+title: Validation of Response Function Construction and Probing Heterogeneous Protein
+  Hydration by Intrinsic Tryptophan
+authors:
+- Yangzhong Qin
+- Chih Wei Chang
+- Lijuan Wang
+- Dongping Zhong
+date: '2012-01-01'
+publishDate: '2025-09-05T20:10:26.725825Z'
+publication_types:
+- article-journal
+publication: '*Journal of Physical Chemistry B*'
+doi: 10.1021/jp305118n
+abstract: Protein solvation dynamics usually occur on multiple time scales with site
+  specificity, and the characterization of such heterogeneous dynamics requires a
+  convenient optical probe. We proposed a tryptophan methodology, and with site-directed
+  mutagenesis we can use a tryptophan scan to probe any desirable position around
+  protein surfaces. Here, we report our extended solvation model for construction
+  of response functions for probes such as tryptophan with multiple emission peaks
+  and lifetimes. We show our systematic construction procedure and careful analyses
+  of the possible missing percentage of an initial ultrafast component with the established
+  zero-time emission spectrum and limited temporal resolution through two methods
+  of the direct mapping of femtosecond-resolved fluorescence spectra (3D FRES) and
+  the constructed FRES (2D) from the fluorescence transients. We unambiguously validate
+  our extended model with reexamination of solvation dynamics (methanol, water, and
+  proteins) using conventional dye coumarin, intrinsic tryptophan, and cofactor flavin.
+  Using mutant proteins of GB1, we show again the generality of the powerful probe
+  tryptophan for protein hydration (solvation) and the slowdown of the hydration layer
+  dynamics especially at the water-protein interface. These results justify the necessity
+  of our extended solvation model, clarify the confusion of protein hydration in the
+  recent literature, and establish the universal optical probe of tryptophan for heterogeneous
+  protein dynamics.
+---

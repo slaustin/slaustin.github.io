@@ -1,0 +1,47 @@
+---
+title: 'Confocal Imaging-Guided Laser Ablation of Basal Cell Carcinomas: An Ex Vivo
+  Study'
+authors:
+- Heidy Sierra
+- Miguel Cordova
+- Chih Shan Jason Chen
+- Milind Rajadhyaksha
+date: '2015-01-01'
+publishDate: '2025-09-05T20:10:23.416391Z'
+publication_types:
+- article-journal
+publication: '*Journal of Investigative Dermatology*'
+doi: 10.1038/jid.2014.371
+abstract: With the effectiveness of therapeutic agents ever decreasing and the increased
+  incidence of multi-drug resistant pathogens, there is a clear need for administration
+  of more potent, potentially more toxic, drugs. Alternatively, biopharmaceuticals
+  may hold potential but require specialised protection from premature in vivo degradation.
+  Thus, a paralleled need for specialised drug delivery systems has arisen. Although
+  cell-mediated drug delivery is not a completely novel concept, the few applications
+  described to date are not yet ready for in vivo application, for various reasons
+  such as drug-induced carrier cell death, limited control over the site and timing
+  of drug release and/or drug degradation by the host immune system. Here, we present
+  our hypothesis for a new drug delivery system, which aims to negate these limitations.
+  We propose transport of nanoparticle-encapsulated drugs inside autologous macrophages
+  polarised to M1 phenotype for high mobility and treated to induce transient phagosome
+  maturation arrest. In addition, we propose a significant shift of existing paradigms
+  in the study of host-microbe interactions, in order to study microbial host immune
+  evasion and dissemination patterns for their therapeutic utilisation in the context
+  of drug delivery. We describe a system in which microbial strategies may be adopted
+  to facilitate absolute control over drug delivery, and without sacrificing the host
+  carrier cells. We provide a comprehensive summary of the lessons we can learn from
+  microbes in the context of drug delivery and discuss their feasibility for in vivo
+  therapeutic application. We then describe our proposed ``synthetic microbe drug
+  delivery system'' in detail. In our opinion, this multidisciplinary approach may
+  hold the solution to effective, controlled drug delivery.
+tags:
+- epiblast
+- gfp fusion
+- histone h2b-
+- icm
+- lineage specification
+- live imaging
+- mouse blastocyst
+- pdgfr
+- primitive endoderm
+---

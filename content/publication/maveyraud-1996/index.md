@@ -1,0 +1,34 @@
+---
+title: 'Crystal Structure of 6$α$-(Hydroxymethyl)Penicillanate Complexed to the TEM-1
+  $β$-Lactamase from Escherichia Coli: Evidence on the Mechanism of Action of a Novel
+  Inhibitor Designed by a Computer-Aided Process'
+authors:
+- Laurent Maveyraud
+- Irina Massova
+- Catherine Birck
+- Kazuyuki Miyashita
+- Jean Pierre Samama
+- Shahriar Mobashery
+date: '1996-01-01'
+publishDate: '2025-09-05T20:10:26.039920Z'
+publication_types:
+- article-journal
+publication: '*Journal of the American Chemical Society*'
+doi: 10.1021/ja9609718
+abstract: The crystal structure of the complex of the TEM-1 beta-lactamase from Escherichia
+  coil inhibited by 6 alpha-(hydroxymethyl)penicillanic acid (1) is reported herein.
+  This is the first structure for an acyl-enzyme intermediate with a substrate reported
+  for a native class A beta-lactamase. This compound was designed and synthesized
+  as a molecule that would acylate the active site of the enzyme, but would resist
+  deacylation by virtue of the fact that its C-6 alpha hydroxymethyl moiety was expected
+  to occupy the space near the hydrolytic water molecule (J. Am. Chem. Sec. 1995,
+  117, 11055), The crystal structure of the acyl-enzyme species is closely similar
+  to one of the two energy-minimized acyl-enzyme models generated in the course of
+  the design aspect of the work. The crystal structure provides evidence for a number
+  of mechanistic features for the inhibition process and the ultimate recovery of
+  the activity. Our results reported herein are consistent with the side-chain carboxylate
+  of Glu-166 being the active-site basic function that activates the hydrolytic water
+  for the deacylation step in the course of catalysis by class A beta-lactamases.
+  The design principles applied for compound 1 hold the promise of general utility
+  for development of novel inhibitors for other hydrolytic enzymes.
+---

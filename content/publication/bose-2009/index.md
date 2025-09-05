@@ -1,0 +1,33 @@
+---
+title: Considerations for the Construction of the Solvation Correlation Function and
+  Implications for the Interpretation of Dielectric Relaxation in Proteins
+authors:
+- Sayantan Bose
+- Ramkrishna Adhikary
+- Prasun Mukherjee
+- Xueyu Song
+- Jacob W. Petrich
+date: '2009-01-01'
+publishDate: '2025-09-05T20:10:23.238304Z'
+publication_types:
+- article-journal
+publication: '*Journal of Physical Chemistry B*'
+doi: 10.1021/jp9004345
+abstract: The dielectric response of proteins is conveniently measured by monitoring
+  the time-dependent Stokes shift of an associated chromophore. The interpretation
+  of these experiments depends critically upon the construction of the solvation correlation
+  function, C(t), which describes the time-dependence of the Stokes shift and hence
+  the dielectric response of the medium to a change in charge distribution. We provide
+  an analysis of various methods of constructing this function and review selected
+  examples from the literature. The naturally occurring amino acid, tryptophan, has
+  been frequently used as a probe of solvation dynamics in proteins. Its nonexponential
+  fluorescence decay has stimulated the generation of an alternative method of constructing
+  C(t). In order to evaluate this method, we have studied a system mimicking tryptophan.
+  The system is comprised of two coumarins (C153 and C152) having different fluorescence
+  lifetimes but similar solvation times. The coumarins are combined in different proportions
+  in methanol to make binary probe mixtures. We use fluorescence upconversion spectroscopy
+  to obtain wavelength-resolved kinetics of the individual coumarins in methanol as
+  well as the binary mixtures of 75:25, 50:50, and 25:75 of C153:C152. The solvation
+  correlation functions are constructed for these systems using different methods
+  and are compared. o̧pyright 2009 American Chemical Society.
+---

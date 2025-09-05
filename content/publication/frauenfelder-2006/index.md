@@ -1,0 +1,41 @@
+---
+title: Protein Folding Is Slaved to Solvent Motions
+authors:
+- H. Frauenfelder
+- P. W. Fenimore
+- G. Chen
+- B. H. McMahon
+date: '2006-01-01'
+publishDate: '2025-09-05T20:10:24.262757Z'
+publication_types:
+- article-journal
+publication: '*Proceedings of the National Academy of Sciences of the United States
+  of America*'
+doi: 10.1073/pnas.0607168103
+abstract: 'Proteins, the workhorses of living systems, are constructed from chains
+  of amino acids, which are synthesized in the cell based on the instructions of the
+  genetic code and then folded into working proteins. The time for folding varies
+  from microseconds to hours. What controls the folding rate is hotly debated. We
+  postulate here that folding has the same temperature dependence as the $α$-fluctuations
+  in the bulk solvent but is much slower. We call this behavior slaving. Slaving has
+  been observed in folded proteins: Large-scale protein motions follow the solvent
+  fluctuations with rate coefficient k $α$ but can be slower by a large factor. Slowing
+  occurs because large-scale motions proceed in many small steps, each determined
+  by k $α$. If conformational motions of folded proteins are slaved, so a fortiori
+  must be the motions during folding. The unfolded protein makes a Brownian walk in
+  the conformational space to the folded structure, with each step controlled by k$α$.
+  Because the number of conformational substates in the unfolded protein is extremely
+  large, the folding rate coefficient, kf, is much smaller than k$α$. The slaving
+  model implies that the activation enthalpy of folding is dominated by the solvent,
+  whereas the number of steps nf = k$α$/ kf is controlled by the number of accessible
+  substates in the unfolded protein and the solvent. Proteins, however, undergo not
+  only $α$- but also $β$-fluctuations. These additional fluctuations are local protein
+  motions that are essentially independent of the bulk solvent fluctuations and may
+  be relevant at late stages of folding.'
+tags:
+- Folding energy landscape
+- Fractional viscosity dependence
+- Internal viscosity
+- Maxwell relation
+- Protein-solvent interaction
+---

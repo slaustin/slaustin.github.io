@@ -1,0 +1,34 @@
+---
+title: 'Solvent Flow Patterns Fluctuating Largely around a Protein and Correlation
+  with Solvent Density Fluctuations: A Molecular Dynamics Study'
+authors:
+- Koji Umezawa
+- Ryota Morikawa
+- Haruki Nakamura
+- Junichi Higo
+date: '2010-01-01'
+publishDate: '2025-09-05T20:10:27.423062Z'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Physics*'
+doi: 10.1063/1.3378263
+abstract: The authors demonstrated recently that translational motions of water molecules
+  around a protein are collective in a short (approximately 10 ps) time scale. The
+  patterns can be regarded as \"flows\" of three specific patterns-fair current, drying/wetting,
+  and vortex-although the patterns disappear eventually over a longer time scale.
+  Our earlier study suggested a hypothesis that the solvent flows are related to the
+  intersolute interaction. However, the connection between the flows and the interaction
+  was left unexamined. The current simulation study analyzed flow patterns around
+  a protein, human lysozyme, revealing that the drying flows correlate with decreased
+  solvent density. The decrease in solvent density has been known to enhance intersolute
+  attractive interactions. The drying flows can therefore induce the intersolute attractive
+  interactions. Human lysozyme has a catalytic cleft on the protein surface. Large
+  fluctuations of drying/wetting patterns were observed only around the cleft because
+  the large fluctuations occur selectively around convex residues on the protein surface,
+  to which large side-chain fluctuations of the protein are also assigned. The emergence
+  of fair current patterns correlated well with the emergence of drying/wetting patterns.
+  This correlation was found only near the protein surface. Near the protein surface,
+  the vortex flow plane of rotation tended to be parallel to the surface. Current
+  study suggests that the drying flows enhance the substrate approach to the catalytic
+  cleft. o̧pyright 2010 American Institute of Physics.
+---

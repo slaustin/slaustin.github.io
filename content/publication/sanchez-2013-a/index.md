@@ -1,0 +1,46 @@
+---
+title: Comparison of Multiple Amber Force Fields and Development of Improved Protein
+  Backbone Parameters
+authors:
+- Viktor Hornak
+- Robert Abel
+- Asim Okur
+- Bentley Strockbine
+- Adrian Roitberg
+- Carlos Simmerling
+date: '2006-01-01'
+publishDate: '2025-09-05T20:10:26.860103Z'
+publication_types:
+- article-journal
+publication: '*Proteins: Structure, Function and Genetics*'
+doi: 10.1002/prot.21123
+abstract: The ff94 force field that is commonly associated with the Amber simulation
+  package is one of the most widely used parameter sets for biomolecular simulation.
+  After a decade of extensive use and testing, limitations in this force field, such
+  as over-stabilization of $α$-helices, were reported by us and other researchers.
+  This led to a number of attempts to improve these parameters, resulting in a variety
+  of \"Amber\" force fields and significant difficulty in determining which should
+  be used for a particular application. We show that several of these continue to
+  suffer from inadequate balance between different secondary structure elements. In
+  addition, the approach used in most of these studies neglected to account for the
+  existence in Amber of two sets of backbone $ǎrphi$/$ψ$ dihedral terms. This led
+  to parameter sets that provide unreasonable conformational preferences for glycine.
+  We report here an effort to improve the $řphi$/$ψ$ dihedral terms in the ff99 energy
+  function. Dihedral term parameters are based on fitting the energies of multiple
+  conformations of glycine and alanine tetrapeptides from high level ab initio quantum
+  mechanical calculations. The new parameters for backbone dihedrals replace those
+  in the existing ff99 force field. This parameter set, which we denote ff99SB, achieves
+  a better balance of secondary structure elements as judged by improved distribution
+  of backbone dihedrals for glycine and alanine with respect to PDB survey data. It
+  also accomplishes improved agreement with published experimental data for conformational
+  preferences of short alanine peptides and better accord with experimental NMR relaxation
+  data of test protein systems. o̧pyright 2006 Wiley-Liss, Inc.
+tags:
+- -helix
+- Decoy analysis
+- Dihedral parameters
+- Molecular dynamics
+- Molecular mechanics
+- NMR order parameters
+- Trialanine
+---

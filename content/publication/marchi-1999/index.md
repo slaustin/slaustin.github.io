@@ -1,0 +1,27 @@
+---
+title: 'Adiabatic Bias Molecular Dynamics: A Method to Navigate the Conformational
+  Space of Complex Molecular Systems'
+authors:
+- Massimo Marchi
+- Pietro Ballone
+date: '1999-01-01'
+publishDate: '2025-09-05T20:10:25.933535Z'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Physics*'
+doi: 10.1063/1.478259
+abstract: 'This study deals with a novel molecular simulation technique, named adiabatic
+  bias molecular dynamics (MD), which provides a simple and reasonably inexpensive
+  route to generate MD trajectories joining points in conformational space separated
+  by activation barriers. Because of the judicious way the biasing potential is updated
+  during the MD runs, the technique allows with some additional effort the computation
+  of the free energy change experienced during the trajectory. The adiabatic bias
+  method has been applied to a nontrivial problem: The unfolding of an atomistic model
+  of lysozyme. Here, the radius of gyration (Rg) was used as a convenient reaction
+  coordinate. For changes in Rg between 19.7 and 28 Å, we observe a net loss of the
+  native tertiary structure of lysozyme. At the same time, secondary structure elements
+  such as $α$-helices are retained although some of the original order is diminished.
+  The calculated free energy profile for the unfolding transition shows a monotonous
+  increase with Rg and depends crucially on the nonbonded cutoff used in the potential
+  model. o̧pyright 1999 American Institute of Physics.'
+---

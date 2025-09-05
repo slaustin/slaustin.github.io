@@ -1,0 +1,45 @@
+---
+title: 'Dynamics of Proteins Predicted by Molecular Simulations and Analytical Approaches:
+  Application to $α$-Amylase Inhibitor'
+authors:
+- Pemra Doruker
+- Ali Rana Atilgan
+- Ivet Bahar
+date: '2000-01-01'
+publishDate: '2025-09-05T20:10:24.003958Z'
+publication_types:
+- article-journal
+publication: '*Proteins: Structure, Function and Genetics*'
+doi: 10.1002/1097-0134(20000815)40:3<512::AID-PROT180>3.0.CO;2-M
+abstract: The dynamics of $α$-amylase inhibitors has been investigated using molecular
+  dynamics (MD) simulations and two analytical approaches, the Gaussian network model
+  (GNM) and anisotropic network model (ANM). MD simulations use a full atomic approach
+  with empirical force fields, while the analytical approaches are based on a coarse-grained
+  single-site-per-residue model with a single- parameter harmonic potential between
+  sufficiently close (r $łeq$ 7 Å) residue pairs. The major difference between the
+  GNM and the ANM is that no directional preferences can be obtained in the GNM, all
+  residue fluctuations being theoretically isotropic, while ANM does incorporate directional
+  preferences. The dominant modes of motions are identified by (i) the singular value
+  decomposition (SVD) of the MD trajectory matrices, and (ii) the similarity transformation
+  of the Kirchhoff matrices of inter-residue contacts in the GNM or ANM. The mean-square
+  fluctuations of individual residues and the cross-correlations between domain movements
+  retain the same characteristics, in all approaches - although the dispersion of
+  modes and detailed amplitudes of motion obtained in the ANM conform m more closely
+  with MD results. The major weakness of the analytical approaches appears, on the
+  other hand, to be their inadequacy to account for the anharmonic motions or multimeric
+  transitions driven by the slowest collective mode observed in MD. Such motions usually
+  suffer, however, from MD sampling inefficiencies, and multiple independent runs
+  should be tested before malting conclusions about their validity and detailed mechanisms.
+  Overall this study invites attention to (i) the robustness of the average properties
+  (mean-square fluctuations, cross-correlations) controlled by the low frequency motions,
+  which are invariably reproduced in all approaches, and (ii) the utility and efficiency
+  of the ANM, the computational time cost of which is of the order of 'minutes' (real
+  time), as opposed to 'days' for MD simulations. (C) 2000 Wiley-Liss, Inc.
+tags:
+- -proteins
+- Anisotropic effects
+- Correlated fluctuations
+- Gaussian network model
+- Molecular dynamics simulations
+- Principal component analysis
+---

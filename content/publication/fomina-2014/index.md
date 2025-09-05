@@ -1,0 +1,39 @@
+---
+title: Hydration Dependence of Myoglobin Dynamics Studied with Elastic Neutron Scattering,
+  Differential Scanning Calorimetry and Broadband Dielectric Spectroscopy
+authors:
+- Margarita Fomina
+- Giorgio Schirò
+- Antonio Cupane
+date: '2014-01-01'
+publishDate: '2025-09-05T20:10:24.235787Z'
+publication_types:
+- article-journal
+publication: '*Biophysical Chemistry*'
+doi: 10.1016/j.bpc.2013.11.004
+abstract: In this work we present a thorough investigation of the hydration dependence
+  of myoglobin dynamics. The study is performed on D 2O-hydrated protein powders in
+  the hydration range 0 $<$ h $<$ 0.5 (h $≡$ gr[D2O]/gr[protein]) and in the temperature
+  range 20-300 K. The protein equilibrium fluctuations are investigated with Elastic
+  Neutron Scattering using the spectrometer IN13 at ILL (Grenoble), while the relaxations
+  of the protein + hydration water system are investigated with Broadband Dielectric
+  Spectroscopy; finally, Differential Scanning Calorimetry is used to obtain a thermodynamic
+  description of the system. The effect of increasing hydration is to speed up the
+  relaxations of the myoglobin + hydration water system and, thermodynamically, to
+  decrease the glass transition temperature; these effects tend to saturate at h values
+  greater than $∼$ 0.3. Moreover, the calorimetric scans put in evidence the occurrence
+  of an endothermic peak whose onset temperature is located at $∼$ 230 K independent
+  of hydration. From the point of view of the protein equilibrium fluctuations, while
+  the amplitude of anharmonic mean square displacements is found to increase with
+  hydration, their onset temperature (i.e. the onset temperature of the well known
+  \"protein dynamical transition\") is hydration independent. On the basis of the
+  above results, the relevance of protein + hydration water relaxations and of the
+  thermodynamic state of hydration water to the onset of the protein dynamical transition
+  is discussed. o̧pyright 2013 Elsevier B.V. All rights reserved.
+tags:
+- Equilibrium fluctuations
+- Glass transition
+- Hydration water liquid-liquid transition
+- Protein dynamics
+- Protein/hydration water relaxations
+---

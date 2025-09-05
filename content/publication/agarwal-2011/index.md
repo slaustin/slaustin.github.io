@@ -1,0 +1,32 @@
+---
+title: Simulating Infrared Spectra and Hydrogen Bonding in Cellulose I?? At Elevated
+  Temperatures
+authors:
+- Vishal Agarwal
+- George W. Huber
+- W. Curtis Conner
+- Scott M. Auerbach
+date: '2011-01-01'
+publishDate: '2025-09-05T20:10:22.751138Z'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Physics*'
+doi: 10.1063/1.3646306
+abstract: We have modeled the transformation of cellulose I$β$ to a high temperature
+  (550 K) structure, which is considered to be the first step in cellulose pyrolysis.
+  We have performed molecular dynamics simulations at constant pressure using the
+  GROMOS 45a4 united atom forcefield. To test the forcefield, we computed the density,
+  thermal expansion coefficient, total dipole moment, and dielectric constant of cellulose
+  I$β$, finding broad agreement with experimental results. We computed infrared (IR)
+  spectra of cellulose I$β$ over the range 300-550 K as a probe of hydrogen bonding.
+  Computed IR spectra were found to agree semi-quantitatively with experiment, especially
+  in the O-H stretching region. We assigned O-H stretches using a novel synthesis
+  of normal mode analysis and power spectrum methods. Simulated IR spectra at elevated
+  temperatures suggest a structural transformation above 450 K, a result in agreement
+  with experimental IR results. The low-temperature (300-400 K) structure of cellulose
+  I$β$ is dominated by intrachain hydrogen bonds, whereas in the high-temperature
+  structure (450-550 K), many of these transform to longer, weaker interchain hydrogen
+  bonds. A three-dimensional hydrogen bonding network emerges at high temperatures
+  due to formation of new interchain hydrogen bonds, which may explain the stability
+  of the cellulose structure at such high temperatures.
+---

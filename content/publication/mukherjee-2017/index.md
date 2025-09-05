@@ -1,0 +1,37 @@
+---
+title: 'Distinguishing Dynamical Features of Water inside Protein Hydration Layer:
+  Distribution Reveals What Is Hidden behind the Average'
+authors:
+- Saumyak Mukherjee
+- Sayantan Mondal
+- Biman Bagchi
+date: '2017-01-01'
+publishDate: '2025-09-05T20:10:26.212377Z'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Physics*'
+doi: 10.1063/1.4990693
+abstract: o̧pyright 2017 Author(s). Since the pioneering works of Pethig, Grant, and
+  Wüthrich on a protein hydration layer, many studies have been devoted to find out
+  if there are any \"general and universal\" characteristic features that can distinguish
+  water molecules inside the protein hydration layer from bulk. Given that the surface
+  itself varies from protein to protein, and that each surface facing the water is
+  heterogeneous, search for universal features has been elusive. Here, we perform
+  an atomistic molecular dynamics simulation in order to propose and demonstrate that
+  such defining characteristics can emerge if we look not at average properties but
+  the distribution of relaxation times. We present results of calculations of distributions
+  of residence times and rotational relaxation times for four different protein-water
+  systems and compare them with the same quantities in the bulk. The distributions
+  in the hydration layer are unusually broad and log-normal in nature due to the simultaneous
+  presence of peptide backbones that form weak hydrogen bonds, hydrophobic amino acid
+  side chains that form no hydrogen bond, and charged polar groups that form a strong
+  hydrogen bond with the surrounding water molecules. The broad distribution is responsible
+  for the non-exponential dielectric response and also agrees with large specific
+  heat of the hydration water. Our calculations reveal that while the average time
+  constant is just about 2-3 times larger than that of bulk water, it provides a poor
+  representation of the real behaviour. In particular, the average leads to the erroneous
+  conclusion that water in the hydration layer is bulk-like. However, the observed
+  and calculated lower value of static dielectric constant of hydration layer remained
+  difficult to reconcile with the broad distribution observed in dynamical properties.
+  We offer a plausible explanation of these unique properties.
+---

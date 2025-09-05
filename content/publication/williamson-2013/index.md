@@ -1,0 +1,46 @@
+---
+title: Using Chemical Shift Perturbation to Characterise Ligand Binding
+authors:
+- Mike P. Williamson
+date: '2013-01-01'
+publishDate: '2025-09-05T20:10:27.621387Z'
+publication_types:
+- article-journal
+publication: '*Progress in Nuclear Magnetic Resonance Spectroscopy*'
+doi: 10.1016/j.pnmrs.2013.02.001
+abstract: Chemical shift perturbation (CSP, chemical shift mapping or complexation-induced
+  changes in chemical shift, CIS) follows changes in the chemical shifts of a protein
+  when a ligand is added, and uses these to determine the location of the binding
+  site, the affinity of the ligand, and/or possibly the structure of the complex.
+  A key factor in determining the appearance of spectra during a titration is the
+  exchange rate between free and bound, or more specifically the off-rate koff. When
+  koff is greater than the chemical shift difference between free and bound, which
+  typically equates to an affinity Kd weaker than about 3 pM, then exchange is fast
+  on the chemical shift timescale. Under these circumstances, the observed shift is
+  the population-weighted average of free and bound, which allows Kd to be determined
+  from measurement of peak positions, provided the measurements are made appropriately.
+  1H shifts are influenced to a large extent by through-space interactions, whereas
+  13Ca and 13Q? shifts are influenced more by through-bond effects. 15N and 13C shifts
+  are influenced both by through-bond and by through-space (hydrogen bonding) interactions.
+  For determining the location of a bound ligand on the basis of shift change, the
+  most appropriate method is therefore usually to measure 15N HSQC spectra, calculate
+  the geometrical distance moved by the peak, weighting 15N shifts by a factor of
+  about 0.14 compared to 1H shifts, and select those residues for which the weighted
+  shift change is larger than the standard deviation of the shift for all residues.
+  Other methods are discussed, in particular the measurement of 13CH3 signals. Slow
+  to intermediate exchange rates lead to line broadening, and make Kd values very
+  difficult to obtain. There is no good way to distinguish changes in chemical shift
+  due to direct binding of the ligand from changes in chemical shift due to allosteric
+  change. Ligand binding at multiple sites can often be characterised, by simultaneous
+  fitting of many measured shift changes, or more simply by adding substo- ichiometric
+  amounts of ligand. The chemical shift changes can be used as restraints for docking
+  ligand onto protein. By use of quantitative calculations of ligand-induced chemical
+  shift changes, it is becoming possible to determine not just the position but also
+  the orientation of ligands. ?? 2013 Elsevier B.V. All rights reserved.
+tags:
+- Chemical shift
+- Dissociation constant
+- Docking
+- Exchange rate
+- Protein
+---

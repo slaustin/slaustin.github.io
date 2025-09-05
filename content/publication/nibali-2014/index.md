@@ -1,0 +1,29 @@
+---
+title: 'New Insights into the Role of Water in Biological Function: Studying Solvated
+  Biomolecules Using Terahertz Absorption Spectroscopy in Conjunction with Molecular
+  Dynamics Simulations'
+authors:
+- Valeria Conti Nibali
+- Martina Havenith
+date: '2014-01-01'
+publishDate: '2025-09-05T20:10:26.317975Z'
+publication_types:
+- article-journal
+publication: '*Journal of the American Chemical Society*'
+doi: 10.1021/ja504441h
+abstract: In life science, water is the ubiquitous solvent, sometimes even called
+  the \"matrix of life\". There is increasing experimental and theoretical evidence
+  that solvation water is not a passive spectator in biomolecular processes. New experimental
+  techniques can quantify how water interacts with biomolecules and, in doing so,
+  differs from \"bulk\" water. Terahertz (THz) absorption spectroscopy has turned
+  out to be a powerful tool to study (bio)molecular hydration. The main concepts that
+  have been developed in the recent years to describe the underlying solute-induced
+  sub-picosecond dynamics of the hydration shell are discussed herein. Moreover, we
+  highlight recent findings that show the significance of hydrogen bond dynamics for
+  the function of antifreeze proteins and for molecular recognition. In all of these
+  examples, a gradient of water motion toward functional sites of proteins is observed,
+  the so-called \"hydration funnel\". By means of molecular dynamics simulations,
+  we provide new evidence for a specific water-protein coupling as the cause of the
+  observed dynamical heterogeneity. The efficiency of the coupling at THz frequencies
+  is explained in terms of a two-tier (short- and long-range) solute-solvent interaction.
+---
