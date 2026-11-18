@@ -35,7 +35,7 @@ sections:
       title: 'My Research Focus'
       subtitle: ''
       text: |-
-        In my research, I utilize computer simulations to better understand how proteins move at the atomic-scale. A focus of my work is on the development of methodologies that enhance our ability to observe rare protein motions critical to their biochemical functionalities. I also create novel GPU-accelerated algorithms, for instance, to detect hidden drug binding sites and investigate how they modulate enzymatic function.
+        In my research, I utilize computer simulations to better understand how proteins move at the atomic-scale. A focus of my work is on the development of methodologies that enhance our ability to observe rare protein motions critical to their biochemical functionalities. I also create GPU-accelerated algorithms to detect hidden drug binding sites and investigate how they modulate enzymatic function.
 
     design:
       columns: '1'
